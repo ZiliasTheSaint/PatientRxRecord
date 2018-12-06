@@ -1,0 +1,2 @@
+version 1.1
+Fixed minor bug in XRaySpectra when building the filename for reading spectra. The case for anode angle of 10 is now properly fixed.

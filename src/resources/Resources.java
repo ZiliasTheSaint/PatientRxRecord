@@ -71,7 +71,7 @@ public class Resources extends ListResourceBundle {
 
 			{ "Version", "Version:" },
 			{ "Version.RO", "Versiune:" },
-			{ "Version.name", "PatientRX 1.0" },
+			{ "Version.name", "PatientRX 1.1" },
 
 			{
 					"License",
